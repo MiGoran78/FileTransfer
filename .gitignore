@@ -17,3 +17,4 @@ bootstrap/cache/
 /_windows
 *.xml
 .idea/MyOwnAPI.iml
+.idea/FileTransfer.iml
